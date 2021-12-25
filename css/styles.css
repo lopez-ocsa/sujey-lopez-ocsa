@@ -1,0 +1,80 @@
+body {
+  /** background-image:url(/imagenes/fondo.jpg) ;
+*/
+background-image: url(https://st4.depositphotos.com/4218696/19737/i/1600/depositphotos_197376968-stock-photo-birthday-party-background-with-gift.jpg);
+
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+flex-wrap: wrap;
+}
+*{
+  
+  
+  box-sizing: border-box;
+}
+
+.title2{
+  margin: 80px;
+color:rgba(255, 0, 0, 0.849);
+text-align: center;
+font-size: 40px;
+}
+ .title1{
+color: rgb(175, 15, 15);
+
+text-align: center ;
+font-size: 50px;
+
+
+
+ }
+
+.title3 {
+margin: 80px;
+color: rgba(212, 0, 255);
+font-size:30px;
+  
+
+}
+img {
+  height: auto;
+ width: auto;
+ max-width: 450px;
+ max-height: 450px;
+ 
+}
+.conteiner {
+  
+  display: flex;
+  justify-content: center;
+  
+}
+p{
+  margin:70px  70px 30px;
+  text-align: center;
+margin-top: 25px;
+font-size: 23px;
+
+ color: rgba(24, 70, 44, 0.973);
+
+}
+.conteiner1{
+  margin-left: 350px;
+}
+
+footer{
+color: darkgreen;
+font-size: 20px;
+text-align: right;
+}
+
+.audio{
+
+  
+  margin-right: 20px;
+}
