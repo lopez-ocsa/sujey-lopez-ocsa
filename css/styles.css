@@ -79,3 +79,10 @@ text-align: right;
   
   margin-right: 20px;
 }
+@media screen and {max-width: 800px;}
+@media screen and {max-width: 400px;
+  .conteiner1{
+width: 100%;
+  }
+  
+}
